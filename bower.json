@@ -1,0 +1,25 @@
+{
+  "name": "kwc-common",
+  "version": "0.1.0",
+  "description": "Common scripts for KWC web components",
+  "license": "MIT",
+  "main": "kwc-common.js",
+  "keywords": [],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^0.7.22",
+    "custom-elements": "webcomponents/custom-elements",
+    "shadydom": "webcomponents/shadydom",
+    "shadycss": "webcomponents/shadycss"
+  },
+  "homepage": "https://github.com/successk/kwc-common",
+  "authors": [
+    "Gaëtan Rizio <gaetan@rizio.fr>"
+  ]
+}
